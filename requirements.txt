@@ -25,3 +25,4 @@ fake-useragent==1.5.1
 tenacity==8.3.0
 loguru==0.7.2
 aiofiles==23.2.1
+isodate==0.7.2
